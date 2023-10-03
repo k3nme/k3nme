@@ -10,6 +10,8 @@ How to reach me :
 email - kalyankaushik.khasibhatla@gmail.com
 
 Pronouns: He / Him / His
+
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/6467a450410780a6d9b94136?variant=dark)](https://roadmap.sh)
 <!--
 **k3nme/k3nme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
