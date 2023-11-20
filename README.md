@@ -4,7 +4,7 @@ This is kalyan kaushik khasibhatla, from Hyderabad, India.
 
 I'm a full stack developer with 9 years of experience across various frameworks of Frontend, Backend with a touch of DevOps. I'm currently learning Python, ML and Blockchain concepts. 
 
-I'm looking to collaborate on projects related to Java, Python and frameworks. 
+I'm looking to collaborate on projects related to Java, Python.
 
 How to reach me : 
 email - kalyankaushik.khasibhatla@gmail.com
