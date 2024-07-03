@@ -2,17 +2,26 @@
 
 This is kalyan kaushik khasibhatla, from Hyderabad, India. 
 
-I'm a full stack developer with 9 years of experience across various frameworks of Frontend, Backend with a touch of DevOps. I'm currently learning Python, ML and Blockchain concepts. 
-
-I'm looking to collaborate on projects related to Java, Python.
+Senior Software engineer at Planon, specializing in Java development with a strong backend hold via Spring and Spring Boot. Currently exploring a diverse range of technologies including AI, Blockchain, DevOps, microservices, micro frontends, react, angular, and web3. Formerly focused on Android, my curiosity drives me to delve into modern technologies and stay at the forefront. Let's connect and share insights on these exciting developments! 💻✨ #TechEnthusiast #SoftwareEngineer
 
 How to reach me : 
 email - kalyankaushik.khasibhatla@gmail.com
 
 Pronouns: He / Him / His
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: He / Him / His
+- ⚡ Fun fact: ...
+  
 <!--
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/6467a450410780a6d9b94136?variant=dark)](https://roadmap.sh)
 <!--
+
 **k3nme/k3nme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
