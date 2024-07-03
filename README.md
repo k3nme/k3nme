@@ -10,13 +10,25 @@ email - kalyankaushik.khasibhatla@gmail.com
 Pronouns: He / Him / His
 
 - 🔭 I’m currently working on ...
+    - A password manager using Rust
+ 
 - 🌱 I’m currently learning ...
+    - Rust, Go
+      
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+    - Frontent projects using Angular / React
+    - Backend projects using Java, Node Js
+      
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+    - Anything related to frontend, backend
+      
+- 📫 How to reach me
+    - mail - kalyankaushik.khasibhatla@gmail.com
+      
 - 😄 Pronouns: He / Him / His
-- ⚡ Fun fact: ...
+  
+- ⚡ Fun fact
+    - This is a page in progress.
   
 <!--
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/6467a450410780a6d9b94136?variant=dark)](https://roadmap.sh)
