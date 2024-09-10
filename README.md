@@ -19,12 +19,10 @@ Senior Software engineer at Planon, specializing in Java development with a stro
     - Anything related to frontend, backend
       
 - 📫 How to reach me
-    - mail - kalyankaushik.khasibhatla@gmail.com
+    - mail - k3nwork@proton.me
       
 - 😄 Pronouns: He / Him / His
   
-- ⚡ Fun fact
-    - This is a page in progress.
   
 <!--
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/6467a450410780a6d9b94136?variant=dark)](https://roadmap.sh)
