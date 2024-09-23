@@ -6,7 +6,7 @@ Senior Software engineer at Planon, specializing in Java development with a stro
 
 
 - 🔭 I’m currently working on ...
-    - A password manager using Rust
+    - A self management app using react native
  
 - 🌱 I’m currently learning ...
     - Rust, Go
