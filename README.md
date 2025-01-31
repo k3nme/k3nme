@@ -4,12 +4,9 @@ This is kalyan kaushik khasibhatla, from Hyderabad, India.
 
 Senior Software engineer at Planon, specializing in Java development with a strong backend hold via Spring and Spring Boot. Currently exploring a diverse range of technologies including AI, Blockchain, DevOps, microservices, micro frontends, react, angular, and web3. Formerly focused on Android, my curiosity drives me to delve into modern technologies and stay at the forefront. Let's connect and share insights on these exciting developments! 💻✨ #TechEnthusiast #SoftwareEngineer
 
-
-- 🔭 I’m currently working on ...
-    - A self management app using react native
  
 - 🌱 I’m currently learning ...
-    - Rust, Go
+    - Rust, Go, AI/ML concepts
       
 - 👯 I’m looking to collaborate on ...
     - Frontent projects using Angular / React
