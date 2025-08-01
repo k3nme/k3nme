@@ -6,7 +6,7 @@
 
 ---
 
-I'm a Senior Software Engineer at Planon, with a core focus on **Java** development and solid experience in **Spring** and **Spring Boot** for backend systems. I started out in **Android development** and gradually expanded into full-stack and cloud-native solutions.
+I'm a Senior Software Engineer at Planon, with a core focus on **Java** development and solid experience in **Spring** and **Spring Boot** for backend systems. I started out in **Web** and **Android development** and gradually expanded into full-stack and cloud-native solutions.
 
 Right now, I’m exploring a range of technologies to broaden my skill set and stay aligned with modern software trends:
 - **Frontend**: React, Angular  
