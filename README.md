@@ -1,5 +1,7 @@
 ### 👋 Hi, I’m **Kalyan Kaushik Khasibhatla**  
+
 **Senior Software Engineer | Backend-Focused | Tech Learner**  
+
 📍 Hyderabad, India  
 
 ---
@@ -35,5 +37,5 @@ Right now, I’m exploring a range of technologies to broaden my skill set and s
 
 ---
 
-📫 **Email**: `k3nwork@proton.me`  
+📫 **Email**: `kalyankaushik.khasibhatla@gmail.com`  
 😄 **Pronouns**: He / Him / His  
