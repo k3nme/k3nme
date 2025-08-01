@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m **Kalyan Kaushik Khasibhatla**  
 
-**Senior Software Engineer | Backend-Focused | Tech Learner**  
+**Senior Software Engineer · Tech Learner**  
 
 📍 Hyderabad, India  
 
