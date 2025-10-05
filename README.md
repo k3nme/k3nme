@@ -1,8 +1,8 @@
 ### 👋 Hi, I’m **Kalyan Kaushik Khasibhatla**  
 
-**Senior Software Engineer · Tech Learner**  
+**Senior Software Engineer · Avid Tech Learner**  
 
-📍 Hyderabad, India  
+📍 Hyderabad, India 
 
 ---
 
